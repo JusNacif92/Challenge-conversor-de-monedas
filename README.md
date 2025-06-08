@@ -29,6 +29,7 @@ in real time.
 </h4>
 
 ##Highlights
+
 ![RequestAPI ExchangeRateAPI](https://github.com/user-attachments/assets/0d03d98d-24ab-4153-a7fa-18f7d5e43889)
 ![CurrencyConvertorFunction with API request and Repones Data](https://github.com/user-attachments/assets/6b02506c-8188-48f6-b328-2aa38f726300)
 
